@@ -483,7 +483,28 @@ The project also highlighted the importance of layered security controls, effect
 Most importantly, the engagement established a relationship between offensive attack techniques and defensive security measures, showing how each attack stage presents opportunities for detection, prevention and recovery.
 
 This project strengthened our practical understanding of ethical hacking and defensive cybersecurity while providing a foundation for further development in Security Operations Centre (SOC) analysis, threat detection and incident response.
-
+operation-sweet-secret/
+│
+├── README.md
+│
+├── docs/
+│   ├── project-report.pdf
+│   └── Operation_Sweet_Secret_SOC_Portfolio_Deliverables.pdf
+│
+├── deliverables/
+│   ├── soc-investigation.md
+│   ├── ioc-detection-mapping.md
+│   └── incident-response-report.md
+│
+├── screenshots/
+│   ├── reconnaissance/
+│   ├── phishing/
+│   ├── data-exfiltration/
+│   ├── ransomware/
+│   └── blue-team-defence/
+│
+└── findings/
+    └── defensive-recommendations.md
 ---
 
 **Project:** Operation Sweet Secret  
